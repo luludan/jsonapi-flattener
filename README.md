@@ -3,6 +3,9 @@
 Simple tool for flattening JSON api responses into simpler objects.
 
 
+## Installation:
+see https://www.npmjs.com/package/jsonapi-flattener
+
 ## Features:
 
 
